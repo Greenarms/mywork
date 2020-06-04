@@ -1,0 +1,33 @@
+body {
+    font-size: 25px;
+    background-color: #80bdab;
+  }
+
+  hr {
+    border-style: dotted none none;
+    border-width: 6px;
+    color: black;
+    width: 7%;
+  }
+
+  h3 {
+    text-align: center;
+  }
+
+  table {
+    margin: 0 auto;
+  }
+
+  ol {
+    max-width: 400px;
+    margin: 0 auto;
+  }
+
+  ul {
+    max-width: 400px;
+    margin: 0 auto;
+  }
+
+  section {
+    text-align: right;
+  }
